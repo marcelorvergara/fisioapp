@@ -1,0 +1,61 @@
+.jumbotron{
+    background: rgba(12, 177, 75, 0.7); /* fallback for old browsers */
+    background: -webkit-linear-gradient(right, rgba(12, 177, 75, 0.7), #8DC26F);
+    background: -moz-linear-gradient(right, rgba(12, 177, 75, 0.7), #8DC26F);
+    background: -o-linear-gradient(right, rgba(12, 177, 75, 0.7), #8DC26F);
+    background: linear-gradient(to left, rgba(12, 177, 75, 0.7), #8DC26F);
+    color: white;
+    }
+.bg-company-green{
+    background: rgba(12, 177, 75, 1.0); /* fallback for old browsers */
+    background: -webkit-linear-gradient(right, rgba(12, 177, 75, 1.0), #8DC26F);
+    background: -moz-linear-gradient(right, rgba(12, 177, 75, 1.0), #8DC26F);
+    background: -o-linear-gradient(right, rgba(12, 177, 75, 1.0), #8DC26F);
+    background: linear-gradient(to left, rgba(12, 177, 75, 1.0), #8DC26F);
+    font-weight: bolder;
+    color: white;
+}
+.nav-item{
+    color: white !important;
+}
+.navbar-text{
+    color: white !important;
+}
+h1{
+    margin: 20px;
+    font-size: 1.25em;
+    letter-spacing: 2px;
+    color: #444444;
+}
+h2{
+    margin: 20px;
+    font-size: 1em;
+    letter-spacing: 2px;
+    color: #444444;
+    font-weight: 300;
+}
+h3{
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 1em;
+    letter-spacing: 1px;
+    color: #444444;
+}
+kbd{
+    background-color: white;
+    padding: 5px;
+    font-weight: bold;
+    color: #0b2e13;
+}
+.section{
+    margin-top: 80px;
+}
+
+.btn-group {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.btn-group .btn {
+    width: 50%;
+}
