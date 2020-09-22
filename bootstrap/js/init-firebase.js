@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyB0OsZ4x83hzMD4K02wvY0JVaZ0W5RyLJw",
+    apiKey: "",
     authDomain: "fisioapp-9cfc0.firebaseapp.com",
     databaseURL: "https://fisioapp-9cfc0.firebaseio.com",
     projectId: "fisioapp-9cfc0",
